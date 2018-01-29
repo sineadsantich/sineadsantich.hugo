@@ -4,5 +4,7 @@ weight = 30
 draft = false
 +++
 
-{{< figure class="image main" src="/images/pic03.jpg" >}}
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+{{< figure class="image main" src="/images/profile.gif" >}}
+I am a Fourth year Cinema and Digital Media student, in the University Honors Program, 
+at the University of California, Davis. I am an aspiring documentary filmmaker, and I am pursuing my dream of
+creating media on topics which fascinate and inspire me.  
