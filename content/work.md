@@ -3,7 +3,7 @@ title = "Portfolio"
 weight = 30
 draft = false
 +++
- ### *Strategic Communications*:
+ ### *Visual Communications*:
   
  <a href="https://youtu.be/84AcuTMEnMI" title="D-Lab">{{< figure class="image main" src="/images/dLab.gif" >}}</a>
 
@@ -11,11 +11,11 @@ draft = false
 
  <a href="https://www.youtube.com/watch?v=IFrdVr_p7NY&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K&index=13" title="Pay It Forward">{{< figure class="image main" src="/images/pizza.gif" >}}</a>
 
- <a href="https://www.youtube.com/watch?v=Oz3EB5AUpQA" title="Tilapia Fish Skins">{{< figure class="image main" src="/images/talapiaskins.gif" >}}</a>
+ <a href="https://www.youtube.com/watch?v=Oz3EB5AUpQA" title="Tilapia Fish Skins">{{< figure class="image main" src="/images/talipia.gif" >}}</a>
 
- <a href="https://youtu.be/7qhanXEL-bM" title="To Boldly Go">{{< figure class="image main" src="/images/ToBoldlyGo.gif" >}}</a>
+ <a href="https://youtu.be/7qhanXEL-bM" title="To Boldly Go">{{< figure class="image main" src="/images/toboldly.gif" >}}</a>
 
- <a href="https://www.youtube.com/watch?v=G2jCrcKiqVE&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K" title="When Science Meets Art">{{< figure class="image main" src="/images/When Science Meets Art.gif" >}}</a>
+ <a href="https://www.youtube.com/watch?v=G2jCrcKiqVE&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K" title="When Science Meets Art">{{< figure class="image main" src="/images/artscience.gif" >}}</a>
 
  <a href="https://www.youtube.com/watch?v=YHhaxSQRKz8" title="World Food Day Challenge">{{< figure class="image main" src="/images/WFDC.gif" >}}</a>
 
