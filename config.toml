@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->"Sinead Santich website"<!--]--><br />
                 <!--[-->test2<!--]-->'
-  logo = "fa-diamond"
+  logo = "fas fa-leaf"
   copyright = "Sinead Santich 2019"
 
 [[params.social]]
