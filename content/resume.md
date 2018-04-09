@@ -40,13 +40,12 @@ draft = false
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [Radio Production](http://kdrt.org/) |[Radio DJ at KDRT](http://kdrt.org/program/technocult-radio)| Fall 2017 |
-| Documentary Production  | | Winter 2016 |
-| [California Floristics](http://www.plantsciences.ucdavis.edu/courses/plb102/index.html) |       |    Spring 2017 |
 | [Kids in the Garden](http://asi.ucdavis.edu/programs/sf/children-and-youth/internships-for-tour-leaders) |       |    Spring 2018 |
 | Landscape Restoration Practicum |       |    Spring 2018 |
 | Landscape Restoration Lab |       |    Spring 2018 |
-
+| [Radio Production](http://kdrt.org/) |[Radio DJ at KDRT](http://kdrt.org/program/technocult-radio)| Fall 2017 |
+| [California Floristics](http://www.plantsciences.ucdavis.edu/courses/plb102/index.html) |       |    Spring 2017 |
+| Documentary Production  | | Winter 2016 |
 
 
 
