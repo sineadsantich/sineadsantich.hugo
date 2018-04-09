@@ -4,7 +4,7 @@ weight = 40
 draft = false
 +++
 
-Questions? Email me at contact@sineadsantich.com 
+ Feel free to email me at contact@sineadsantich.com 
 
 
 
