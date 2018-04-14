@@ -28,8 +28,13 @@ draft = false
  <a href="https://vimeo.com/158869106" title="Life Cycles">{{< figure class="image main" src="/images/lifecycles.gif" >}}</a>
 
  <a href="https://vimeo.com/215486369" title="Reflexive Reflections">{{< figure class="image main" src="/images/reflections.gif" >}}</a>
+ 
+ <a href="https://vimeo.com/264720798" title="Making A Wish">{{< figure class="image main" src="/images/MakingAWish.gif" >}}</a>
 
 ### *Other Internships*:
 
+ <a href="https://youtu.be/AgL8Pepp61E" title="Capital Public Radio, Place and Privilege">{{< figure class="image main" src="/images/CapRadio.gif" >}}</a>
+
  <a href="https://vimeo.com/201980723" title="Davis Feminist Film Festival Trailer">{{< figure class="image main" src="/images/fem_film_fest.gif" >}}</a>
+
 
