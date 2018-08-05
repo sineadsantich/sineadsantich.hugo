@@ -3,7 +3,7 @@ title = "Portfolio"
 weight = 30
 draft = false
 +++
- ### *Visual Communications*:
+ ### *Strategic Communications*:
   
  <a href="https://youtu.be/84AcuTMEnMI" title="D-Lab">{{< figure class="image main" src="/images/dLab.gif" >}}</a>
 

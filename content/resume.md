@@ -10,7 +10,8 @@ draft = false
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [UCD Visual Communications](http://strategiccommunications.ucdavis.edu/about/visual/index.html) |Intern | 2016-Now |
+| [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | July 2018-Now |
+| [UCD Strategic Communications](http://strategiccommunications.ucdavis.edu/about/visual/index.html) |Intern | 2016-Now |
 | [Capital Public Radio](http://www.capradio.org/news/the-view-from-here/)| Intern  | Summer 2017 |
 | [KDVS Davis](https://kdvs.org/past-playlists/4804/) | Radio DJ      |    Fall 2017 |
 | [Art Street](http://www.m5arts.com/artstreet/)| [Intern](http://arts.ucdavis.edu/post/two-profs-build-bar-artstreet) | Winter 2017 |
@@ -32,7 +33,7 @@ draft = false
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
 | [University Honors Program](https://honors.ucdavis.edu/)| | 2014-2018|
-| [Outstanding Senior Award](https://ue.ucdavis.edu/faculty/outstanding-senior-call.html) | | 2018 |
+| [Outstanding Senior Award](https://ue.ucdavis.edu/students/senior-awards-2018#&gid=1&pid=66) | | 2018 |
 | [Provost Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/general_information.html)|  | [Spring 2017](http://urc.ucdavis.edu/awards/puf/recipients.html)|
 | [Eva Schicke Memorial Scholarship](http://wrrc.ucdavis.edu/scholarship.html) |  |    Spring 2017 |
 
