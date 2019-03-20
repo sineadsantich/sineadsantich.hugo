@@ -10,8 +10,9 @@ draft = false
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | July 2018-Now |
-| [UCD Strategic Communications](http://strategiccommunications.ucdavis.edu/about/visual/index.html) |Intern | 2016-Now |
+| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Production Assistant | October 2018-Now |
+| [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | July 2018-October 2018 |
+| [UCD Strategic Communications](http://strategiccommunications.ucdavis.edu/about/visual/index.html) |Intern | 2016-2018 |
 | [Capital Public Radio](http://www.capradio.org/news/the-view-from-here/)| Intern  | Summer 2017 |
 | [KDVS Davis](https://kdvs.org/past-playlists/4804/) | Radio DJ      |    Fall 2017 |
 | [Art Street](http://www.m5arts.com/artstreet/)| [Intern](http://arts.ucdavis.edu/post/two-profs-build-bar-artstreet) | Winter 2017 |
