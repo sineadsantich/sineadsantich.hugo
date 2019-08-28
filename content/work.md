@@ -57,6 +57,8 @@ draft = false
 
 ### *College Projects*:
 
+ <a href="https://vimeo.com/264720798" title="Making a wish">{{< figure class="image main" src="/images/MakingAWish.jpg" >}}</a>
+
  <a href="https://vimeo.com/158869106" title="Life Cycles">{{< figure class="image main" src="/images/lifecycles.jpg" >}}</a>
 
  <a href="https://vimeo.com/201980723" title="Davis Feminist Film Festival Trailer">{{< figure class="image main" src="/images/Fem_film_fest Still.jpg" >}}</a>
