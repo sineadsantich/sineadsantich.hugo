@@ -4,7 +4,7 @@ weight = 40
 draft = false
 +++
 
-{{< figure class="image main" src="/images/about me pic2.jpg" >}}
+{{< figure class="image main" src="/images/aboutmepic.jpg" >}}
 
 My name is Sinead Santich, and I am a documentary filmmaker and visual storyteller. 
 
