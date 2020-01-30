@@ -53,7 +53,7 @@ draft = false
 
  <a href="https://youtu.be/7qhanXEL-bM" title="To Boldly Go">{{< figure class="image main" src="/images/toboldly.jpg" >}}</a>
 
- <a href="https://www.youtube.com/watch?v=G2jCrcKiqVE&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K" title="When Science Meets Art">{{< figure class="image main" src="/images/artscience.gif" >}}</a>
+ <a href="https://www.youtube.com/watch?v=G2jCrcKiqVE&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K" title="When Science Meets Art">{{< figure class="image main" src="/images/artsciencenewpic.jpg" >}}</a>
 
 ### *College Projects*:
 
