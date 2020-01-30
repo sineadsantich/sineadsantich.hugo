@@ -6,6 +6,8 @@ draft = false
 
 ### *Documentary*:
 
+ <a href="https://youtu.be/Vr5LP0UZvKg" title="Fighting Fire With Fire">{{< figure class="image main" src="/images/fighting fire.jpg" >}}</a>
+
  <a href="https://vimeo.com/281168116" title="Break The Cycle">{{< figure class="image main" src="/images/break the cycle.jpg" >}}</a>
 
 ### *University of California, Office of the President*:
@@ -36,8 +38,6 @@ draft = false
 
 
 ### *UC Davis Strategic Communications*:
-
- <a href="https://youtu.be/Vr5LP0UZvKg" title="Fighting Fire With Fire">{{< figure class="image main" src="/images/fighting fire.jpg" >}}</a>
 
  <a href="https://youtu.be/cdzeS0E736o" title="Floating Island Project">{{< figure class="image main" src="/images/Floating Island.jpg" >}}</a>
 
