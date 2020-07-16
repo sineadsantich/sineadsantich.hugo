@@ -8,7 +8,7 @@ draft = false
 
 My name is Sinead Santich, and I am a documentary filmmaker and visual storyteller. 
 
-My films lie at intersection of society and the environment, sharing the stories of people who strive for a better future. I bring the essence of their stories to screen.
+My films lie at the intersection of society and the environment, sharing the stories of people who strive for a better future. I bring the essence of their stories to screen.
 
 I have a degree in Cinema and Digital Media and a minor in Landscape Restoration from UC Davis. By combining my interests in media and science, I developed filmmaking skills that I use to transform scientific research into emotionally tangible stories. 
 
