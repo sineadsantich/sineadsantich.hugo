@@ -4,11 +4,9 @@ weight = 40
 draft = false
 +++
 
-{{< figure class="image main" src="/images/aboutmepic.jpg" >}}
+{{< figure class="image main" src="/images/prof_pic_ireland.jpg" >}}
 
-My name is Sinead Santich, and I am a documentary filmmaker and visual storyteller. 
-
-My films lie at the intersection of society and the environment, sharing the stories of people who strive for a better future. I bring the essence of their stories to screen.
+Hey there! My name is Sinead Santich, and I am a documentary filmmaker and visual storyteller. My films lie at the intersection of society and the environment, sharing the stories of people who strive for a better future. 
 
 I have a degree in Cinema and Digital Media and a minor in Landscape Restoration from UC Davis. By combining my interests in media and science, I developed filmmaking skills that I use to transform scientific research into emotionally tangible stories. 
 

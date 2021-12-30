@@ -1,55 +1,54 @@
 +++
-title = "resume"
+title = "resume/CV"
 weight = 20
 draft = false
 +++
 
-
+## *Current Multimedia Positions*:
 								
-<h3 class="major">Media Jobs and Internships</h3>
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Production Assistant | October 2018-Now |
-| [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | July 2018-October 2018 |
-| [UCD Strategic Communications](http://strategiccommunications.ucdavis.edu/about/visual/index.html) |Intern | 2016-2018 |
+| [STEAM4Kidz](https://steam4kidz.com/) |Lead Video Producer | Feb 2021-Now |
+| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Specialist | Oct 2019-Now |
+| [Freelance:](http://sineadsantich.com/#work) |Video Producer | June 2018-Now 
+
+ [Artists for Amazonia](https://amazonclimateplatform.org/), [Red Nation International Film Festival](https://www.rednationff.com/), [Santa Barbara Fire Safe Council](https://sbfiresafecouncil.org/), [PulseOne](https://pulseone.com/), [Cliamte Policy Initiative](https://www.climatepolicyinitiative.org/,), [Glenn County Resource Conservation District](https://www.glenncountyrcd.org/)
+
+## *Past Positions*:
+								
+
+|                                            |                         |   |
+| -------------            |:----------------------------------------:| -----:|
+| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Production Assistant | Oct 2018-Oct 2019 |
+| [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | Summer 2018 |
+| [UCD Strategic Communications](https://strategiccommunications.ucdavis.edu/) |Intern | 2016-2018 |
 | [Capital Public Radio](http://www.capradio.org/news/the-view-from-here/)| Intern  | Summer 2017 |
-| [KDVS Davis](https://kdvs.org/past-playlists/4804/) | Radio DJ      |    Fall 2017 |
-| [Art Street](http://www.m5arts.com/artstreet/)| [Intern](http://arts.ucdavis.edu/post/two-profs-build-bar-artstreet) | Winter 2017 |
-| [Cliteracy!](http://fembroidery.com/) | Member     |   2017-Now |
-| [Film Fest at UC Davis](https://www.facebook.com/FilmFestatUCDavis/)|Assistant Producer | 2017 |
-| [Davis Feminist Film Festival](http://wrrc.ucdavis.edu/feministfilmfestival.html)|Intern | 2016 |
-| [React to Film](https://www.reacttofilm.com/)|President of UC Davis Chapter | 2015-2016 |
 
-<h3 class="major">Other Jobs and Internships</h3>
+
+## *Film Festivals & Exhibits*:
+### *Fighting Fire With Fire*
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [Whole Earth Festival](https://wef.ucdavis.edu/)|Reusable Dishes Coordinator | 2017 |
-| [Whole Earth Festival](https://wef.ucdavis.edu/)|Kids Space Coordinator | 2016 |
-| [Shields Library](https://www.reacttofilm.com/)|Circulation Desk | 2015-2016 |
+| [FlickFair](https://watch.flickfair.com/) | | 2021 |
+| [California ScienCenter](https://californiasciencecenter.org/exhibits/fire-science-safety) | | 2021 |
+| [Wild and Scenic Film Festival](https://www.wildandscenicfilmfestival.org/film/fighting-fire-with-fire/) |  |    2020 |
+| [International Wildlife Film Festival](https://wildlifefilms.org/portfolio-3/fighting-fire-with-fire/)| | 2020|
+| [Philadelphia Environmental Film Festival](https://watch.eventive.org/pufferfish/play/5f1f8bd6f34802005a76f402/5ef669b1e2e1cd0059d4bc97)| | 2020|
 
-<h3 class="major">Awards and Grants</h3>
+
+
+
+## *Awards and Grants*:
+
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [University Honors Program](https://honors.ucdavis.edu/)| | 2014-2018|
-| [Outstanding Senior Award](https://ue.ucdavis.edu/students/senior-awards-2018#&gid=1&pid=66) | | 2018 |
 | [Provost Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/general_information.html)|  | [Spring 2017](http://urc.ucdavis.edu/awards/puf/recipients.html)|
 | [Eva Schicke Memorial Scholarship](http://wrrc.ucdavis.edu/scholarship.html) |  |    Spring 2017 |
-
-<h3 class="major"> Production and Lab Courses at UC Davis</h3>
-
-|                                            |                         |   |
-| -------------            |:----------------------------------------:| -----:|
-| [Kids in the Garden](http://asi.ucdavis.edu/programs/sf/children-and-youth/internships-for-tour-leaders) |       |    Spring 2018 |
-| Landscape Restoration Practicum |       |    Spring 2018 |
-| Landscape Restoration Lab |       |    Spring 2018 |
-| [Radio Production](http://kdrt.org/) |[Radio DJ at KDRT](http://kdrt.org/program/technocult-radio)| Fall 2017 |
-| [California Floristics](http://www.plantsciences.ucdavis.edu/courses/plb102/index.html) |       |    Spring 2017 |
-| Documentary Production  | | Winter 2016 |
-
-
+| [University Honors Program](https://honors.ucdavis.edu/)| | 2014-2018|
+| [Outstanding Senior Award](https://ue.ucdavis.edu/students/senior-awards-2018#&gid=1&pid=66) | | 2018 |
 
 
 
