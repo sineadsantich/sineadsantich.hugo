@@ -17,7 +17,7 @@ Sustainable Cycles, a group of female-bodied cyclists and menstrual health activ
 
 [{{< figure class="image main" src="/images/kickstarter1.jpg" >}} STEAM4Kidz Kicskstarter Promo](https://www.kickstarter.com/projects/paul-freeman-sb/steam4kidz-hands-on-education-for-at-home-learners?fbclid=IwAR2H2MLn1PDbdyAMTTvPXu4t5DFoVqE_VOrlH9k9NEbgNNwM_v0qOV-FYW8) 
 
-The offical video for the STEAM4Kidz Kickstarter Campaign. STEAM and educational project kits for elementary-aged students. 
+The offical video for the STEAM4Kidz Kickstarter Campaign. STEAM4Kidz kits deliver hands-on projects, in a variety of subjects, right to your home. Our kits are designed so that kids can complete most projects independently, using the project materials provided while following along with engaging teacher-led project videos.  Just open the box, start the video and your learner is on their way!
 
 [{{< figure class="image main" src="/images/Meet_your_instructors.jpg" >}} Meet your Instructors for STEAM4Kidz](https://vimeo.com/602811627/a90534348c) 
 
@@ -37,15 +37,15 @@ Don't wait until it's too late to take the necessary steps to prepare your home 
 
 [{{< figure class="image main" src="/images/rnff_still.jpg" >}} RNIFF Festival Trailer 2021](https://www.youtube.com/watch?v=TMYp0zXjuZI)
 
-The 26th Red Nation International Film Festival, featuring new films from the world’s leading Native and Indigenous filmmakers. November 1-30, in Los Angeles and online.
+This is the offical trailer for the 26th Red Nation International Film Festival, featuring new films from the world’s leading Native and Indigenous filmmakers. 
 
 [{{< figure class="image main" src="/images/amazon_climate_forum.jpg" >}} Amazon Climate Platform](https://amazonclimateplatform.org/)
 
-Through the insights offered by two dozen speakers -- from Amazonian Indigenous and Afro-Brazilian leaders, Brazilian and U.S. Congresspeople, and an E.U. Parliamentarian, to Catholic Cardinals and Bishops, youth climate activists, celebrities, and more  -- a number of key messages for the Biden Administration were spoken to during the Amazon Climate Forum
+Through the insights offered by two dozen speakers -- from Amazonian Indigenous and Afro-Brazilian leaders, Brazilian and U.S. Congresspeople, and an E.U. Parliamentarian, to Catholic Cardinals and Bishops, youth climate activists, celebrities, and more  -- a number of key messages for the Biden Administration were spoken to during the Amazon Climate Forum.
 
  [{{< figure class="image main" src="/images/MTSJ dairy.jpg" >}} Glenn County Soil Health - MTSJ Dairy](https://www.youtube.com/watch?v=Fwdgra_tBh8)
 
-Soil Health on MTSJ Dairy located in Glenn County, California. Marty Poldervarrt shares his knowledge on soil health along with Steve Gruenwald, CCA, Grower's Choice Crop Consulting.
+Marty Poldervarrt, a Dairyman based in Northern California, shares his knowledge and practices for maintaining good soil health along with Steve Gruenwald, from Grower's Choice Crop Consulting.
 
  [{{< figure class="image main" src="/images/Putah Creek Nursery.jpg" >}} Putah Creek Nursery](https://www.putahcreekcouncil.org/sites/default/files/Putah%20Creek%20Video_Updated.mp4)
 
