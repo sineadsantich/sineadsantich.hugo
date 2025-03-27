@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->"Sinead Santich website"<!--]--><br /><!--[-->test2<!--]-->'
   logo = "fas fa-leaf"
-  copyright = "Sinead Santich 2022"
+  copyright = "Sinead Santich 2025"
 
 [[params.social]]
   medium = "twitter"

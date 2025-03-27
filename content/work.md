@@ -3,6 +3,10 @@ title = "Portfolio"
 weight = 30
 draft = false
 +++
+## *Madecraft*:
+[{{< figure class="image main" src="/images/pink_flowers.jpg" >}} How to Break Bad Habits (When You Don't Know They're Bad)](https://www.linkedin.com/learning/how-to-break-bad-habits-when-you-don-t-know-they-re-bad)
+
+Breaking bad habits is hard enough—they’re habits for a reason, after all—but breaking bad habits that you don’t even realize are bad can be exponentially harder. There are many instances in our lives where we do things unconsciously, or worse, where we even think we’re being good or polite, that can end up sabotaging our whole lives. In this course, Samantha Bennett teaches you how to first recognize your bad habits—what they are and how they become habits—and then explains how you can analyze both the good and bad habits in your life. Learn about the small, easy steps you can take towards changing your behavior to create a life that you love.
 
 ## *Documentary Shorts*:
 [{{< figure class="image main" src="/images/ffwf_photoshop.jpg" >}} Fighting Fire With Fire](https://youtu.be/Vr5LP0UZvKg)
@@ -12,22 +16,6 @@ In an effort to restore the role of Native people as land stewards and mitigate 
 [{{< figure class="image main" src="/images/break the cycle.jpg" >}} Break the Cycle](https://vimeo.com/281168116)
 
 Sustainable Cycles, a group of female-bodied cyclists and menstrual health activists, ride across the United States and Mexico, sparking conversations about reusable menstrual products and sustainable transportation along the way. Their destination? The biennial Society for Menstrual Health Research Conference.
-
-## *STEAM4Kidz*:
-
-[{{< figure class="image main" src="/images/kickstarter1.jpg" >}} STEAM4Kidz Kicskstarter Promo](https://www.kickstarter.com/projects/paul-freeman-sb/steam4kidz-hands-on-education-for-at-home-learners?fbclid=IwAR2H2MLn1PDbdyAMTTvPXu4t5DFoVqE_VOrlH9k9NEbgNNwM_v0qOV-FYW8) 
-
-The offical video for the STEAM4Kidz Kickstarter Campaign. STEAM4Kidz kits deliver hands-on projects, in a variety of subjects, right to your home. Our kits are designed so that kids can complete most projects independently, using the project materials provided while following along with engaging teacher-led project videos.  Just open the box, start the video and your learner is on their way!
-
-[{{< figure class="image main" src="/images/Meet_your_instructors.jpg" >}} Meet your Instructors for STEAM4Kidz](https://vimeo.com/602811627/a90534348c) 
-
-To make great videos, you need great instructors.  We're happy to say that the secret to our initial successes have been our energetic and knowledgeable instructors. 
-
-
-[{{< figure class="image main" src="/images/cosmic_rocket.jpg" >}} Cosmic Rocket Commercial](https://www.facebook.com/steam4kidzonline/videos/656128305535372/)
-
-This is the Cosmic Rocket project from our Fantasy Aliens on Planet Kepzoo STEAM kit. This project teaches students about rockets and how they work and uses a chemical reaction to launch a rocket of their own that they build as part of the project. 
-
 
 ## *Freelance Production*:
 
@@ -39,17 +27,9 @@ Don't wait until it's too late to take the necessary steps to prepare your home 
 
 This is the offical trailer for the 26th Red Nation International Film Festival, featuring new films from the world’s leading Native and Indigenous filmmakers. 
 
-[{{< figure class="image main" src="/images/amazon_climate_forum.jpg" >}} Amazon Climate Platform](https://amazonclimateplatform.org/)
-
-Through the insights offered by two dozen speakers -- from Amazonian Indigenous and Afro-Brazilian leaders, Brazilian and U.S. Congresspeople, and an E.U. Parliamentarian, to Catholic Cardinals and Bishops, youth climate activists, celebrities, and more  -- a number of key messages for the Biden Administration were spoken to during the Amazon Climate Forum.
-
  [{{< figure class="image main" src="/images/MTSJ dairy.jpg" >}} Glenn County Soil Health - MTSJ Dairy](https://www.youtube.com/watch?v=Fwdgra_tBh8)
 
 Marty Poldervarrt, a Dairyman based in Northern California, shares his knowledge and practices for maintaining good soil health along with Steve Gruenwald, from Grower's Choice Crop Consulting.
-
- [{{< figure class="image main" src="/images/Putah Creek Nursery.jpg" >}} Putah Creek Nursery](https://www.putahcreekcouncil.org/sites/default/files/Putah%20Creek%20Video_Updated.mp4)
-
-Putah Creek Council protects and enhances Putah Creek, its watershed, and tributaries through advocacy, education and community-based stewardship. This short video showcases their native plant nursery and it's role in restoring the Putah Creek Watershed.
 
 ## *NPR & Affiliates*:
 
@@ -115,11 +95,5 @@ Working in partnership with the California Department of Fish and Wildlife, UC D
 [{{< figure class="image main" src="/images/artsciencenewpic.jpg" >}} When Science Meets Art](https://www.youtube.com/watch?v=G2jCrcKiqVE&list=PLslgisHe5tBOupT4tpNT4NbevnfDrhq_K")
 
 After taking an introduction to wildlife conservation class, McKinna Salinas, a fourth year art studio major, created a series of oil paintings inspired by what she learned.
-
-## *College Projects*:
-
-[{{< figure class="image main" src="/images/MakingAWish.jpg" >}} Making a wish](https://vimeo.com/264720798)
-
-This mixed media animation combines stop motion and Adobe After Effects to tell the abstract story of a dandelion and the chemical world.
 
 

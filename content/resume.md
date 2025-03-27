@@ -1,33 +1,32 @@
 +++
-title = "resume/CV"
+title = "Resume"
 weight = 20
 draft = false
 +++
 
-## *Current Multimedia Positions*:
+## *Work History*:
 								
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [STEAM4Kidz](https://steam4kidz.com/) |Lead Video Producer | Feb 2021-Now |
-| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Specialist | Oct 2019-Now |
-| [Freelance:](http://sineadsantich.com/#work) |Video Producer | June 2018-Now 
-
- [Artists for Amazonia](https://amazonclimateplatform.org/), [Red Nation International Film Festival](https://www.rednationff.com/), [Santa Barbara Fire Safe Council](https://sbfiresafecouncil.org/), [PulseOne](https://pulseone.com/), [Cliamte Policy Initiative](https://www.climatepolicyinitiative.org/,), [Glenn County Resource Conservation District](https://www.glenncountyrcd.org/)
-
-## *Past Positions*:
-								
-
-|                                            |                         |   |
-| -------------            |:----------------------------------------:| -----:|
-| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Production Assistant | Oct 2018-Oct 2019 |
+| [Madecraft](https://onlymadecraft.com/) |Senior Video Editor | 2022-Present |
+| [Freelance:](http://sineadsantich.com/#work) |Video Producer |  2018-Present |
+| [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Specialist Contractor Multimedia Production Assistant| 2019-2021 2018 - 2019 |
 | [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | Summer 2018 |
-| [UCD Strategic Communications](https://strategiccommunications.ucdavis.edu/) |Intern | 2016-2018 |
-| [Capital Public Radio](http://www.capradio.org/news/the-view-from-here/)| Intern  | Summer 2017 |
+| [Capital Public Radio](http://www.capradio.org/news/the-view-from-here/)| Community Engagement Intern  | Summer 2017 |
+| [UC Davis Strategic Communications](https://strategiccommunications.ucdavis.edu/) |Video Production Intern | 2016-2018 |
 
+
+## *Education*:
+### *UC Davis*
+
+|                                            |                         |   |
+| -------------            |:----------------------------------------:| -----:|
+| [Cinema and Digial Media (BA)](https://watch.flickfair.com/) | | 2021 |
+| [Landscape Restoration (Minor)](https://californiasciencecenter.org/exhibits/fire-science-safety) | |
 
 ## *Film Festivals & Exhibits*:
-### *Fighting Fire With Fire*
+### *Fighting Fire With Fire (2020)*
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
