@@ -9,7 +9,7 @@ draft = false
 
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
-| [Madecraft](https://onlymadecraft.com/) |Senior Video Editor | 2022-Present |
+|[Madecraft](https://onlymadecraft.com/) |Senior Video Editor | 2022-2025  |
 | [Freelance:](http://sineadsantich.com/#work) |Video Producer |  2018-Present |
 | [UCOP](https://www.universityofcalifornia.edu/) |Multimedia Specialist Contractor Multimedia Production Assistant| 2019-2021 2018 - 2019 |
 | [KQED](https://www.kqed.org/science/series/deep-look) |Deep Look Associate Engagement Producer | Summer 2018 |
@@ -26,8 +26,12 @@ draft = false
 | [Landscape Restoration (Minor)](https://californiasciencecenter.org/exhibits/fire-science-safety) | |
 
 ## *Film Festivals & Exhibits*:
-### *Fighting Fire With Fire (2020)*
+### *Lastovo (2025)*
+|                                            |                         |   |
+| -------------            |:----------------------------------------:| -----:|
+| [Illuminate Film Festival](https://www.youtube.com/watch?v=wZ2D5m_mUBg&ab_channel=ILLUMINATEFilmFestival) | | 2025 |
 
+### *Fighting Fire With Fire (2020)*
 |                                            |                         |   |
 | -------------            |:----------------------------------------:| -----:|
 | [FlickFair](https://watch.flickfair.com/) | | 2021 |

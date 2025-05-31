@@ -4,14 +4,27 @@ weight = 30
 draft = false
 +++
 ## *Madecraft*:
-[{{< figure class="image main" src="/images/pink_flowers.jpg" >}} How to Break Bad Habits (When You Don't Know They're Bad)](https://www.linkedin.com/learning/how-to-break-bad-habits-when-you-don-t-know-they-re-bad)
+[{{< figure class="image main" src="/images/How to Break Bad Habits (When You Don't Know They're Bad_TN.jpg" >}} How to Break Bad Habits (When You Don't Know They're Bad)](https://www.linkedin.com/learning/how-to-break-bad-habits-when-you-don-t-know-they-re-bad)
 
 Breaking bad habits is hard enough—they’re habits for a reason, after all—but breaking bad habits that you don’t even realize are bad can be exponentially harder. There are many instances in our lives where we do things unconsciously, or worse, where we even think we’re being good or polite, that can end up sabotaging our whole lives. In this course, Samantha Bennett teaches you how to first recognize your bad habits—what they are and how they become habits—and then explains how you can analyze both the good and bad habits in your life. Learn about the small, easy steps you can take towards changing your behavior to create a life that you love.
+
+[{{< figure class="image main" src="/images/0866_00_00_IMG1080_coursethumbnail.jpg" >}} Working with Upset Customers](https://www.linkedin.com/learning/working-with-upset-customers-22154277)
+
+More than any other topic, customer service professionals ask for advice on how to serve angry and upset customers. This course reveals proven techniques for effectively neutralizing negative situations. Customer service expert Jeff Toister also shares specific actions employees can take before and after encounters with upset customers that will reduce the likelihood of problems occurring in the future.
+
+[{{< figure class="image main" src="/images/Body Language Essentials for the Working Professional_TN.jpg" >}} Body Language Essentials for the Working Professional](https://www.linkedin.com/learning/body-language-essentials-for-the-working-professional)
+
+It's essential to master the skills of body language in the workplace. These skills provide you with tactics that can help display confidence and empathy, as well as build rapport and increase your presence as a leader. They also offer valuable models to enhance the way you use and respond to first impressions, gestures, tone, voice, and more. In this course, gather insights on the best practices for using body language in the physical workplace, with tips to accommodate virtual meeting spaces as well. Join nationally recognized professor of communication Dr. Dustin York as he shares his knowledge and a few easy-to-follow models that you can engage and implement immediately on your own. By the end of this course, you’ll have a new set of workplace body language skills that you can apply to help you succeed in your career.
+
 
 ## *Documentary Shorts*:
 [{{< figure class="image main" src="/images/ffwf_photoshop.jpg" >}} Fighting Fire With Fire](https://youtu.be/Vr5LP0UZvKg)
 
 In an effort to restore the role of Native people as land stewards and mitigate the threat of wildfires, UC-Davis professor Beth Rose Middleton Manning fires up a hands-on lesson in cultural burning. Tribal Chairman Ron Goode leads students in an immersive experience preparing the land, igniting the fire, and carrying out indigenous traditions that have restored California landscapes for centuries.
+
+[{{< figure class="image main" src="/images/Lastovo - Final Cut.00_01_34_20.Still002.png" >}} Lastovo](https://www.youtube.com/watch?v=wZ2D5m_mUBg&ab_channel=ILLUMINATEFilmFestival)
+
+Having grown up disconnected from her father’s family history, Sinead Santich travels to the remote Croatian island of Lastovo in search of her grandfather’s past..
 
 [{{< figure class="image main" src="/images/break the cycle.jpg" >}} Break the Cycle](https://vimeo.com/281168116)
 
@@ -23,13 +36,15 @@ Sustainable Cycles, a group of female-bodied cyclists and menstrual health activ
 
 Don't wait until it's too late to take the necessary steps to prepare your home from wildfire. In this video Santa Barbara County Fire Marshal Chief Rob Hazard, surveys two different home and highlights how each of the properties could improve their chance of surviving a wildfire.
 
+ [{{< figure class="image main" src="/images/MTSJ dairy.jpg" >}} Glenn County Soil Health - MTSJ Dairy](https://www.youtube.com/watch?v=Fwdgra_tBh8)
+
+Marty Poldervarrt, a Dairyman based in Northern California, shares his knowledge and practices for maintaining good soil health along with Steve Gruenwald, from Grower's Choice Crop Consulting.
+
 [{{< figure class="image main" src="/images/rnff_still.jpg" >}} RNIFF Festival Trailer 2021](https://www.youtube.com/watch?v=TMYp0zXjuZI)
 
 This is the offical trailer for the 26th Red Nation International Film Festival, featuring new films from the world’s leading Native and Indigenous filmmakers. 
 
- [{{< figure class="image main" src="/images/MTSJ dairy.jpg" >}} Glenn County Soil Health - MTSJ Dairy](https://www.youtube.com/watch?v=Fwdgra_tBh8)
 
-Marty Poldervarrt, a Dairyman based in Northern California, shares his knowledge and practices for maintaining good soil health along with Steve Gruenwald, from Grower's Choice Crop Consulting.
 
 ## *NPR & Affiliates*:
 
